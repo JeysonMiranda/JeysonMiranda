@@ -34,7 +34,7 @@
 ### 🔗 Connect With Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/jeyson-miranda/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://github.com/Jeyson05" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<a href="https://github.com/JeysonMiranda" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
 
 ---
