@@ -18,15 +18,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeyson05&show_icons=true&theme=dark" alt="Jeyson's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyson05&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeysonMiranda&show_icons=true&theme=dark" alt="Jeyson's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeysonMiranda&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🏆 Achievements and Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeyson05&theme=darkhub&no-frame=true&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JeysonMiranda&theme=darkhub&no-frame=true&margin-w=10" alt="Trophies" />
 </p>
 
 ---
